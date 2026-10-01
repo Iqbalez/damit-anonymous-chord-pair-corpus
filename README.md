@@ -1,5 +1,7 @@
 # DAMIT Anonymous Chord Pair Corpus
 
+**Challenge status (2026-10-01): withdrawn before platform upload.** A participant-only joint assignment scored 0.63 on the frozen 100-case evaluation, above the creator's under-0.60 target. This repository remains available for source provenance and generator review; it does not publish the frozen benchmark, private seed, or answer key.
+
 This repository documents and generates a benchmark for associating two simulated stellar-occultation chord profiles with one of eight anonymous asteroid shape models. The shapes are real published models from DAMIT. The chord profiles are **simulated** from those models; they are not historical occultation measurements.
 
 `SOURCE_CATALOG_PUBLIC.json` lists all 294 selected source models, their direct DAMIT shape URLs, SHA-256 hashes, model-specific publication references and whether they were used during development. There are 119 development identities and 175 later acquired identities. The development identities are assigned only to training in the frozen benchmark. Every source model has a cited original publication. No personal data is present.
