@@ -1,0 +1,4508 @@
+[
+  {
+    "asteroid_number": 1,
+    "model_id": 5915,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/63584/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/660"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000001.txt",
+    "sha256": "34f3be292f384e8a2d7e8d997fccc297840b4506a80ed6f154512e789d7af856",
+    "bytes": 32486,
+    "vertices": 402,
+    "faces": 800,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2,
+    "model_id": 101,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/10/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000002.txt",
+    "sha256": "85ec85118d2a04e5a87b1f2f1426638b9f5106759e1ee4d3c84e22f00e8446b6",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 3,
+    "model_id": 103,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/22/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103",
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000003.txt",
+    "sha256": "dd326c6c9aa8790c9494b1d774b1c698ab7fd0e9465a091090c2f983a184ebfa",
+    "bytes": 82546,
+    "vertices": 1020,
+    "faces": 2036,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 4,
+    "model_id": 5920,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/64139/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/660"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000004.txt",
+    "sha256": "450d4962cf1a06dccc9254583030b7fdc512ccc6a7e4f5bd40ecf253a69a4646",
+    "bytes": 63591,
+    "vertices": 786,
+    "faces": 1568,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 5,
+    "model_id": 104,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/31/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/123",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000005.txt",
+    "sha256": "ca3147561863356bb19b1f674994404099f74435e9de10acce4ce47b0fadeaea",
+    "bytes": 77523,
+    "vertices": 958,
+    "faces": 1912,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 6,
+    "model_id": 106,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/41/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000006.txt",
+    "sha256": "d27231a654b60c64388ecebcff98fd6002ef798aa907893b28f0aff04b4b3756",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7,
+    "model_id": 107,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000007.txt",
+    "sha256": "1cdbb3de67603e1de11e1d2f12f6dcdbb0d9e5902cd6b6fc178343cc0e96c44d",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 8,
+    "model_id": 110,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/133",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000008.txt",
+    "sha256": "e896f0fd11d276f6fcbc17f1128420fa9b4f1732e73c6059f9f8cd188b065d22",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 9,
+    "model_id": 111,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/79/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/112",
+      "https://damit.cuni.cz/projects/damit/references/view/127",
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000009.txt",
+    "sha256": "6c83a44d95f3d2fffc778b7b0b5f4e6c2384b58f692fb3fd493ae95d92cd5833",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 10,
+    "model_id": 4392,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/50790/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/656"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000010.txt",
+    "sha256": "783fd95c7e95e46957f1603eae6cc6829b08228146d956702ff0df72324c53f2",
+    "bytes": 129688,
+    "vertices": 1602,
+    "faces": 3200,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 11,
+    "model_id": 502,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1974/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000011.txt",
+    "sha256": "57b7ddbafd71b82ee8b6029662c7df4134d714e42cbdf144ccf8f9dacaf90755",
+    "bytes": 82222,
+    "vertices": 1016,
+    "faces": 2028,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 12,
+    "model_id": 844,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3251/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000012.txt",
+    "sha256": "ce17fa0f21da97324134c2bf0faa85d8b0c690bd2c430632dd66ff7086d18b5c",
+    "bytes": 81736,
+    "vertices": 1010,
+    "faces": 2016,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 13,
+    "model_id": 307,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1115/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000013.txt",
+    "sha256": "9f0274cb5c6b34e7e4e55c79929844ef8f9868cc898d7f471cbae1d63be41f99",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 14,
+    "model_id": 309,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1129/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000014.txt",
+    "sha256": "aedc17ae6a6935c2f27964ae2a27ef4a1dbdf8aa85163b67614b1f62c3a780f8",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 15,
+    "model_id": 112,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/92/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103",
+      "https://damit.cuni.cz/projects/damit/references/view/109",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000015.txt",
+    "sha256": "409cc2f8e01b089c5fb7c31649c2bad4dd11417f9f562671b54187fed851cc49",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16,
+    "model_id": 113,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/103/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000016.txt",
+    "sha256": "de645a529194704c4a35ff2f32133bc58f9ff2761d488faac8c02d0f50da2367",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 17,
+    "model_id": 116,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/113/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/123",
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000017.txt",
+    "sha256": "4ab3bb84cf020ea326fe445362fbb7105effa1754ce56fccccc83f4eb861f8d3",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 18,
+    "model_id": 993,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3704/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000018.txt",
+    "sha256": "f2e9ae00ed7781e9cb6e9d356ce531ced7cd469c1064a82c2ba6e9dbcc394140",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 19,
+    "model_id": 117,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/120/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/127",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000019.txt",
+    "sha256": "e9cdb2f18824a4277e9f6ca9c2e6bb3b07e4882c1532b3325cb5b92d90052f6c",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 20,
+    "model_id": 118,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/129/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000020.txt",
+    "sha256": "cb2a45a63063ed1a43ea6a9bdb2b71fa70c779615b08e290005b80b79d6193e2",
+    "bytes": 129364,
+    "vertices": 1598,
+    "faces": 3192,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 21,
+    "model_id": 120,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/138/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000021.txt",
+    "sha256": "d99e08024f392da37046313b4209689644dfd18d575239d1f87dea1bf342efa8",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 22,
+    "model_id": 121,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/148/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103",
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000022.txt",
+    "sha256": "94f0ea223a53cd7dfc61ea445c883473311f36100c92e0cbe912624545f96313",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 23,
+    "model_id": 122,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/159/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/135",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000023.txt",
+    "sha256": "7ebb28c5ac6387817cdf051e20943583b0003c4ce56b66894df5a46686348608",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 24,
+    "model_id": 1006,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/50366/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000024.txt",
+    "sha256": "bff3c300559a44a6eba5ab607878403a4c1b8231c453a7e22461ed5a0dcb25db",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 25,
+    "model_id": 697,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2757/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000025.txt",
+    "sha256": "508b7c0d7855f6aa60a8aa63d9ed3f2f7226718ca88d3eb72b0427228b69804e",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 26,
+    "model_id": 1189,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4308/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000026.txt",
+    "sha256": "5451a43f38b22110427c9ac5aee9fc2dba99a37ef7248f5f3986bca7f375f2f7",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 27,
+    "model_id": 441,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1716/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/142"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000027.txt",
+    "sha256": "0805b6f32ecb1e5e05c9c5a2f79c4cfa521a2370860b4930a728613d2e9bbc9a",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 28,
+    "model_id": 287,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/963/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000028.txt",
+    "sha256": "9d5cddb157651879f5a62540531887a5279344e4226b4cecaffb2d342fa7343f",
+    "bytes": 81898,
+    "vertices": 1012,
+    "faces": 2020,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29,
+    "model_id": 124,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/175/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103",
+      "https://damit.cuni.cz/projects/damit/references/view/122",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000029.txt",
+    "sha256": "86f1e5702626eb0e36a7f4745568cc08cf1794469f710fa894a7837f886a17c7",
+    "bytes": 81736,
+    "vertices": 1010,
+    "faces": 2016,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 30,
+    "model_id": 125,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/185/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/123",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000030.txt",
+    "sha256": "3636e7fdb26e0af764f97976c147bfe83a07106a8a5ef9a48b5f77c361e41309",
+    "bytes": 81493,
+    "vertices": 1007,
+    "faces": 2010,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 31,
+    "model_id": 1066,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3933/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000031.txt",
+    "sha256": "2d31ed3f9b22901ad59f0e51c182a23fac0aa3591594d7c16daf621bcdf3d01f",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 33,
+    "model_id": 5163,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/129049/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/670"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000033.txt",
+    "sha256": "ad4eef6efbc7473338d3a427724875eec7f1bf08e61afddb552a0668c44d4ee9",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 34,
+    "model_id": 128,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/201/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/123",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000034.txt",
+    "sha256": "7d566e3ba9e505ff450fe52b960b59ca4f60df760f5e05c9360ec3e1551207a7",
+    "bytes": 75579,
+    "vertices": 934,
+    "faces": 1864,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 35,
+    "model_id": 867,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3320/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000035.txt",
+    "sha256": "c2abe03b883ffd4ac42bee1f6c015a6badadb1d0cec330476c2c15828a9ff593",
+    "bytes": 81736,
+    "vertices": 1010,
+    "faces": 2016,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 36,
+    "model_id": 823,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3184/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000036.txt",
+    "sha256": "8e623150e9c87568b82037ea5fae18d26f649948b9f7bb1a765c54d0c56abe03",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 37,
+    "model_id": 311,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1135/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000037.txt",
+    "sha256": "78c40e68a2033a7564848664b56eab0141b4682fa9641e5aa0cdac5409eb8966",
+    "bytes": 81655,
+    "vertices": 1009,
+    "faces": 2014,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 38,
+    "model_id": 720,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2826/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/152"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000038.txt",
+    "sha256": "109763528dc5541c8d5ee603522994a0c754eb2f8220a8b3fcef950ccd5f9f4c",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 39,
+    "model_id": 130,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/213/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000039.txt",
+    "sha256": "316733973994a148e03c6f317bfbe7efd80926402170c674dfa24ac0f1072254",
+    "bytes": 81898,
+    "vertices": 1012,
+    "faces": 2020,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 40,
+    "model_id": 313,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1145/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000040.txt",
+    "sha256": "db5739ee7422c63339668b3d70ecb663fd01ca26c5dc61d9d6664be739092461",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 41,
+    "model_id": 131,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/225/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/104",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000041.txt",
+    "sha256": "33f5aff0de3afc6b4e0d21e6734247bdc5a834c8a4dcd5666a4712eba479a2ac",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 42,
+    "model_id": 315,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1155/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000042.txt",
+    "sha256": "6a63202ff4b807f01f3668edf755bf4eb0dbfeeb649703f8357a0919980e737c",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 43,
+    "model_id": 132,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/238/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000043.txt",
+    "sha256": "6e9d764f968d04bcd29370261f8fd2925c98e9cfcf4f1a5709ab71af0f256e92",
+    "bytes": 81898,
+    "vertices": 1012,
+    "faces": 2020,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 44,
+    "model_id": 133,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/246/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/104",
+      "https://damit.cuni.cz/projects/damit/references/view/126"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000044.txt",
+    "sha256": "e7bbb4f7c411465ab264413640a06741034efda064a94cc1160d3d0a99ce379d",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 45,
+    "model_id": 134,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/251/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000045.txt",
+    "sha256": "c740ca8698fd3d38b6feec939abbff04094549092a431c01ec912f7753e76603",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 46,
+    "model_id": 4383,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/13639/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/183"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000046.txt",
+    "sha256": "3c9b6ec13ef63607aaa3b4b2419bcf7b94232652d260b9b4f1a8e0eb5b49350a",
+    "bytes": 82546,
+    "vertices": 1020,
+    "faces": 2036,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 47,
+    "model_id": 3233,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/10219/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000047.txt",
+    "sha256": "5d85d9ffc8185618d1fb1a32c0b452dc7d5f1efcfc0008f25dd00f2a54d738e5",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 48,
+    "model_id": 936,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3528/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000048.txt",
+    "sha256": "8be25dd8ad26c5df1738bf87bc34b1401472b0b82e019e2aedfea7d91c086002",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 49,
+    "model_id": 16309,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/129571/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/676"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000049.txt",
+    "sha256": "eb435f1eed2b7bdab2a018e10e761e55375947842b4627375cab9e9380a55e78",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 50,
+    "model_id": 12738,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/129413/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/672"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000050.txt",
+    "sha256": "8b1dc50c7f205bb4935eaab846f570620cca1443dfe383c2b6706ecc7bcf1a42",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 51,
+    "model_id": 1065,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3925/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000051.txt",
+    "sha256": "5a3d9cc02314bceb087d5f9b46e75ff5ab1c100661e8c004552692dd46abdde4",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 52,
+    "model_id": 135,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/263/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103",
+      "https://damit.cuni.cz/projects/damit/references/view/108",
+      "https://damit.cuni.cz/projects/damit/references/view/112",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000052.txt",
+    "sha256": "f1f7a99b8bdd738564dd7036c86738980a18a72518ef4725cc5cd25137f372ba",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 53,
+    "model_id": 1732,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/5941/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/165"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000053.txt",
+    "sha256": "c93cad2380849e859383f912f5f1ef6042c6be167151571b7dc9a27f261165b6",
+    "bytes": 82060,
+    "vertices": 1014,
+    "faces": 2024,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 54,
+    "model_id": 136,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/279/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/120",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000054.txt",
+    "sha256": "5a5729f8fdadd16c2a4b17dbeb5e2bd3e61e3c91ace7f7420cdda1ef285e57e7",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 55,
+    "model_id": 139,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/289/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000055.txt",
+    "sha256": "2f8825e7125544f7cbcf50fa479dc601268d3add0960b3acb46f0696c90eabb4",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 56,
+    "model_id": 1105,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4054/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000056.txt",
+    "sha256": "71ad449ca8e87d6913514617eaac694e40774052ba3657e5752f00682a2e8118",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 59,
+    "model_id": 6156,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/66260/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000059.txt",
+    "sha256": "6a4303f1791e988fba36d8524815aa00799d0268b7f81d4d263da431f15b331f",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 60,
+    "model_id": 1695,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/5839/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000060.txt",
+    "sha256": "ddc352f155debfd2b7982465401013ccfa65ab66e907975442f94c79fa937b72",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 62,
+    "model_id": 317,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1160/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000062.txt",
+    "sha256": "c4ea27f6c40f983f44fd05f49f21a60e1d4a90a303a795361f109d13cf8c7bfb",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 63,
+    "model_id": 140,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/294/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse",
+    "file": "models/shape_000063.txt",
+    "sha256": "69597dbc349a57dc4d2b51e6cd4281b9483c0d1946bbeb6697096e651dfcec99",
+    "bytes": 129364,
+    "vertices": 1598,
+    "faces": 3192,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 64,
+    "model_id": 288,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/969/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000064.txt",
+    "sha256": "74f88f459352cd928db91f8b4e9ca92b8e629ab88bfbf5f0810d2eb60a8bfb9c",
+    "bytes": 81412,
+    "vertices": 1006,
+    "faces": 2008,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 65,
+    "model_id": 783,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3078/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/156"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000065.txt",
+    "sha256": "6d092f013afb0d5561b491799158cefcf1c130c5481d0378449b7703fa46c2c4",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 66,
+    "model_id": 1233,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4450/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000066.txt",
+    "sha256": "587900c8fa238632e992111688ea6ab5b2e373f730f7acd0a13030589275c327",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 67,
+    "model_id": 5668,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/60970/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000067.txt",
+    "sha256": "784a802ce9b6fe162194a958f5f66d20f06b591d3b50733fc93aa4e7bc50a453",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 68,
+    "model_id": 290,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/981/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/141",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000068.txt",
+    "sha256": "22c388028d5da32840503e4aaa9a0985447afaf34909ca834b26e941a313f019",
+    "bytes": 82222,
+    "vertices": 1016,
+    "faces": 2028,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 69,
+    "model_id": 319,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1170/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000069.txt",
+    "sha256": "cbe8efe6448bf2e9ba29a52ca5f60b47f50d301f8f77c9610cf3d8ea63cf01c9",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 70,
+    "model_id": 6171,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/127404/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/667"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000070.txt",
+    "sha256": "8f75037450dbd96f5c26ac404105441505d0401da143c108f7f8ef90f87117e9",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 71,
+    "model_id": 1014,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3775/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000071.txt",
+    "sha256": "8b8480da8e3b48bf4e1a93f8e3ae2de0a69315a13dc947a105fe05a0c169338d",
+    "bytes": 82384,
+    "vertices": 1018,
+    "faces": 2032,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 72,
+    "model_id": 646,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2555/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000072.txt",
+    "sha256": "4ce9d1bb76e87af550d12916c7080d4c2c333de03dae75590d117067ba50eaa9",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 73,
+    "model_id": 142,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/299/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/115",
+      "https://damit.cuni.cz/projects/damit/references/view/141"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000073.txt",
+    "sha256": "32e8a509863ce93032e7d97e906d1b7413d1c5db35b9229bee8953d0a8af54f7",
+    "bytes": 81574,
+    "vertices": 1008,
+    "faces": 2012,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 74,
+    "model_id": 6181,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/66400/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000074.txt",
+    "sha256": "6ddcee1db0ceec15c3dfae6c178336914650b00826fba507d8cd6dd3dab41087",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 76,
+    "model_id": 442,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1721/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/143"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000076.txt",
+    "sha256": "3762ea95ed2846b90e9df6c81300e467a7419b09236b6de8d9bf60209eeea848",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 79,
+    "model_id": 496,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1940/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000079.txt",
+    "sha256": "36b740ae2cab2874d468ab7340d77f5783abe3782285b88fe453547f82205661",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 80,
+    "model_id": 145,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/309/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/123",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000080.txt",
+    "sha256": "550c6516ac546de44f2d16119cd880799a5b94e8896f65ba77eaca556125e65b",
+    "bytes": 81250,
+    "vertices": 1004,
+    "faces": 2004,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 82,
+    "model_id": 146,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/319/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/123",
+      "https://damit.cuni.cz/projects/damit/references/view/141"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:5/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000082.txt",
+    "sha256": "b1248125111cb430f90a711830816a8132f7fed1682bbebab7e10ee127af24d5",
+    "bytes": 82546,
+    "vertices": 1020,
+    "faces": 2036,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 83,
+    "model_id": 6195,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/66477/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000083.txt",
+    "sha256": "b6849947b8a92ca5438a2e91740256fc20bef247cdadb94b6ad8bdda723e4d4a",
+    "bytes": 82546,
+    "vertices": 1020,
+    "faces": 2036,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 84,
+    "model_id": 5792,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/61910/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000084.txt",
+    "sha256": "470fb94f84bd323b2b698252ff223a2bf7cd2cd4b30c7c996141135c18ec8cfb",
+    "bytes": 46095,
+    "vertices": 570,
+    "faces": 1136,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 85,
+    "model_id": 292,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/996/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000085.txt",
+    "sha256": "bd680429c28cbfc12bf6ad82d025b8d26fcf5951276ff775fd4356e298bf3816",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 86,
+    "model_id": 5799,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/61960/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000086.txt",
+    "sha256": "1f263e11028e2a01358e54a68391c8cc9ccd70f4d4e7eae4fbcf09489d26c765",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 87,
+    "model_id": 148,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/328/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103",
+      "https://damit.cuni.cz/projects/damit/references/view/112",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000087.txt",
+    "sha256": "c348932acc2c3468cd0137c623af2fa3fa40d976fbf2d2fe298f951294e26d1c",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 88,
+    "model_id": 149,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/341/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000088.txt",
+    "sha256": "6746cea9e05651ed95e22c4008ce9ce301f70b1dcd27e4d5500c2a8bad519e65",
+    "bytes": 129364,
+    "vertices": 1598,
+    "faces": 3192,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 89,
+    "model_id": 293,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1008/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000089.txt",
+    "sha256": "9ecb867ec804521234c22c23734fbada4ffabc34ddbf2ff945653343aa83bbf3",
+    "bytes": 80277,
+    "vertices": 992,
+    "faces": 1980,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 91,
+    "model_id": 5831,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/62203/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000091.txt",
+    "sha256": "8f40507e4c1c4fcf4858c89d9490e22ed2cbbea81363305f993f8f5a9cf7a5de",
+    "bytes": 46095,
+    "vertices": 570,
+    "faces": 1136,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 93,
+    "model_id": 1797,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2822/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/150",
+      "https://damit.cuni.cz/projects/damit/references/view/169"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000093.txt",
+    "sha256": "e8db727155bfaf5ccc6d996a603ed712b472a2585f75fc3c5ea9472039bbe434",
+    "bytes": 32486,
+    "vertices": 402,
+    "faces": 800,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 94,
+    "model_id": 302,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1083/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/140"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000094.txt",
+    "sha256": "8262c7de0d216c64a1b973b1f5a09a4911e0b0f69690e887ab091f5fce16269f",
+    "bytes": 82546,
+    "vertices": 1020,
+    "faces": 2036,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 95,
+    "model_id": 294,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1014/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000095.txt",
+    "sha256": "d0e611cbfa92edf2dc21d0d4efae8ce2b4efb7460e63d038e63f61e115b11429",
+    "bytes": 82546,
+    "vertices": 1020,
+    "faces": 2036,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 97,
+    "model_id": 321,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1181/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000097.txt",
+    "sha256": "11db1e440c1fdbe9f28f96d0750381d4238645ba651903e586b56fb08c1c7ccd",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 98,
+    "model_id": 1088,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3999/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000098.txt",
+    "sha256": "0b7c71c3ad49bdc31f45d662a68f4f4a29a637c6399b280eeb74a8eee9377d94",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 99,
+    "model_id": 1144,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4173/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000099.txt",
+    "sha256": "fa976b4d7167a12345ebcc95c09b74f06e4700a16ce25c9a8381e2a8de94626f",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 100,
+    "model_id": 3088,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/9787/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/179"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:6/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000100.txt",
+    "sha256": "982fb3441909f80413120b9a2caf82a2e0ffd81c9198b95c41d6ed7951546e17",
+    "bytes": 79467,
+    "vertices": 982,
+    "faces": 1960,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 103,
+    "model_id": 917,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3470/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000103.txt",
+    "sha256": "155404c32e4202324ad5e4aaa574252ac2688e6f9f2b1c3fbc56ddc6514afa36",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 104,
+    "model_id": 797,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3106/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000104.txt",
+    "sha256": "f1d26036f42cd12a1a45edb1d953d4b064b85c83474b898368bfde1a6b5ac7cc",
+    "bytes": 80439,
+    "vertices": 994,
+    "faces": 1984,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 105,
+    "model_id": 5939,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65053/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000105.txt",
+    "sha256": "94fc92d360a1f3a2717868f1d57a9198a413398e84683329b60707f2f5a10b9b",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 106,
+    "model_id": 5942,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65070/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000106.txt",
+    "sha256": "992f3f5a9ca46623bc42548cff241e5735ede28e48817f20be88f3c054a55ea1",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 107,
+    "model_id": 151,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/352/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/122",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000107.txt",
+    "sha256": "60fb1c540ccc53ec779db77c541cb6a656e01430b52ba4d2d3e3a85235d02133",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 108,
+    "model_id": 6208,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/66733/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/664"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000108.txt",
+    "sha256": "abb82c72be025e04aa23b9c87b11bbc967002367652873a69bf62a662b6b0ef3",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 109,
+    "model_id": 3096,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/9811/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/179"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000109.txt",
+    "sha256": "5602e8303912309ddb5b042d107ec094812b2ea803caa6d3430e6c5132c7e7f1",
+    "bytes": 82060,
+    "vertices": 1014,
+    "faces": 2024,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 110,
+    "model_id": 152,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/361/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/113",
+      "https://damit.cuni.cz/projects/damit/references/view/126"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000110.txt",
+    "sha256": "ce4560318a58f130ddd60a01038a7fdb3bcc30554d3507ade899cda740975004",
+    "bytes": 129283,
+    "vertices": 1597,
+    "faces": 3190,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 112,
+    "model_id": 994,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3707/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000112.txt",
+    "sha256": "76e84bb363bc61fff99cee400395d53d29cbb4b11ef0012f4513dfbb689b06cd",
+    "bytes": 42693,
+    "vertices": 528,
+    "faces": 1052,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 114,
+    "model_id": 1784,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/6080/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/168"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000114.txt",
+    "sha256": "ca43035cecf79ac08dc76729c047a5023031154ad046b4bb00a0778c76dd8e12",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 115,
+    "model_id": 154,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/369/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/108",
+      "https://damit.cuni.cz/projects/damit/references/view/126"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000115.txt",
+    "sha256": "d3e017daf4e6a4b91d1854af583a2e128397c945dc62d2c384b8420bf8094a2f",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 116,
+    "model_id": 1262,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4537/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000116.txt",
+    "sha256": "c68bf3b6d915714aa8038688743ddd9053e054b8cc5f6121209212c91f86ba71",
+    "bytes": 82060,
+    "vertices": 1014,
+    "faces": 2024,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 117,
+    "model_id": 838,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3229/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000117.txt",
+    "sha256": "9269270e3faf2394d48a7f1711bb68c161039e38109c09c0e92e6e92140f3d85",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 119,
+    "model_id": 323,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1186/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:7/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000119.txt",
+    "sha256": "6d8297de717271593165d8e34c141a3d1565e851957dd91ddaea2ce0f15945c3",
+    "bytes": 82384,
+    "vertices": 1018,
+    "faces": 2032,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 120,
+    "model_id": 943,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3549/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000120.txt",
+    "sha256": "71ab4e0c28a09ae451115ee438139b1772bdfcc1373ed9981d3fb216f6122262",
+    "bytes": 81250,
+    "vertices": 1004,
+    "faces": 2004,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 121,
+    "model_id": 155,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/373/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/131"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000121.txt",
+    "sha256": "5c8d891008276eacdc4aeb12ae2bbcd262df9786fd776b289460e1cf43ebf4b5",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 122,
+    "model_id": 968,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3624/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000122.txt",
+    "sha256": "d0b4a2670b3b5be50f4ea2a72901937964545ef598a904c82ba6b06d2e4c37cc",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 123,
+    "model_id": 4507,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/52149/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000123.txt",
+    "sha256": "573126734566ace9227a24b38761a639cd45a87a447f44c115857f4e4aa904a7",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 124,
+    "model_id": 4511,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/52179/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000124.txt",
+    "sha256": "6b1581ba2bde44e3dbd3c799e1e2bea6562f10dcfd5b83ee8d07481ae37f1ed6",
+    "bytes": 45447,
+    "vertices": 562,
+    "faces": 1120,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 125,
+    "model_id": 157,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/383/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/113"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000125.txt",
+    "sha256": "4142c7bbb6839eac603668cbe025516b0f70887c5d70202b39c2e0d2e954552a",
+    "bytes": 129364,
+    "vertices": 1598,
+    "faces": 3192,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 126,
+    "model_id": 5958,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65159/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000126.txt",
+    "sha256": "78ec4654953bce428c657665cc21c70e933184fdeb4952e7243df70d97be698e",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 127,
+    "model_id": 444,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1730/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/143"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000127.txt",
+    "sha256": "641a0c871a4f30afcfb42761be86fd53ef4a6c72566c5ad87e3a6e3dbf5a1923",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 129,
+    "model_id": 159,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/396/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000129.txt",
+    "sha256": "b081c8cfc9e62e93e8a6acc89ffc5891ee9445183c53f60b0584e1649d8e02e7",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 130,
+    "model_id": 160,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/408/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/112",
+      "https://damit.cuni.cz/projects/damit/references/view/113",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000130.txt",
+    "sha256": "cc6410fd9291609c5e7375cba97d948e2efcaea34bd5ec3f2932a116c7763617",
+    "bytes": 129364,
+    "vertices": 1598,
+    "faces": 3192,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 131,
+    "model_id": 5962,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/128991/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/669"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000131.txt",
+    "sha256": "ec324a86c39750dde57a0fb78f6c61ce30742010cfcb799e3f4f649d2f840fa3",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 132,
+    "model_id": 161,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/417/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/123",
+      "https://damit.cuni.cz/projects/damit/references/view/141"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000132.txt",
+    "sha256": "c05291e6311058380b5fa35a033df4579bbfc67922699d57fba7c5898c8d5e41",
+    "bytes": 81898,
+    "vertices": 1012,
+    "faces": 2020,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 133,
+    "model_id": 5972,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65236/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000133.txt",
+    "sha256": "dc5fd920f10ed35377a2bbca5487dd096bd62756b3d78b4fa9007b127dc80d87",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 134,
+    "model_id": 5976,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65258/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000134.txt",
+    "sha256": "3878aec42eda2f64254bc260a3c0497632f037da3e447fd65082822521883492",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 135,
+    "model_id": 162,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/422/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/127"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:8/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000135.txt",
+    "sha256": "f5c2d2d4e8b9ff4f13a8cec7f1d879215286feceb0f7919ff8b5d8164e53fa81",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 136,
+    "model_id": 1068,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3939/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000136.txt",
+    "sha256": "ff45d80fe7f52b4ee9fb8cd3e24f70ef783575170f93c8cd57812339847aa9eb",
+    "bytes": 45933,
+    "vertices": 568,
+    "faces": 1132,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 137,
+    "model_id": 5983,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65297/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000137.txt",
+    "sha256": "a692afa2b908756462c3ecacb063c11f0c5ebed62afcab6936510f7b92421240",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 138,
+    "model_id": 1408,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4978/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000138.txt",
+    "sha256": "a3692a7c932006825771b1db870b51d75a042f8e703bda63f311581c2a84bf20",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 139,
+    "model_id": 5985,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65308/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000139.txt",
+    "sha256": "299db30077ce9e5c022971c38780e16113ad0716ce7de0ce6ffd9288a55acb0c",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 140,
+    "model_id": 5987,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65319/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000140.txt",
+    "sha256": "a6cf15b20cd4bcfb839a14044d91774e83056e3457b568b0c3659da8d0607b67",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 144,
+    "model_id": 1099,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4034/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000144.txt",
+    "sha256": "7ddcf7cfaea3d077b78791a72fea15b2bee2c4a93a0f85d291ea10780bb98591",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 146,
+    "model_id": 164,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/432/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/123",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000146.txt",
+    "sha256": "5035f28df843ee517720494bd31a29b541cbfe64b67ee695e9f5e78baa6b4894",
+    "bytes": 82060,
+    "vertices": 1014,
+    "faces": 2024,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 147,
+    "model_id": 557,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2196/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000147.txt",
+    "sha256": "903c54800b229e30bd4b5b7aed8a99f3bef189f87ccf99d29fdce35aea38979c",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 148,
+    "model_id": 4618,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/52991/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000148.txt",
+    "sha256": "dfae149a3e1dd7938f6bb711488c8d230804ca7efe942f776479be14f138ab0a",
+    "bytes": 46257,
+    "vertices": 572,
+    "faces": 1140,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 149,
+    "model_id": 570,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2248/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000149.txt",
+    "sha256": "ac8826e64a7f1eb168ab78c9ed24005a668817f2f32137eecf417ce94a9ee6c0",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 150,
+    "model_id": 1185,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4296/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000150.txt",
+    "sha256": "b576ef6ed10c1950eb578412561c1829d8d537c14ad28ac7ff30cb5ceb14135a",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 151,
+    "model_id": 4625,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/53045/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000151.txt",
+    "sha256": "30c56d5b9f294437dfb49eec0cc71c4ff68980845df2ef72f0ccfed1bac61478",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 152,
+    "model_id": 166,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/442/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/123",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/141",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000152.txt",
+    "sha256": "e9f41ceb8412ca0bd19dcdc559b6f3a7cfe7e693c80fcfd99f87cc20d064dce5",
+    "bytes": 81412,
+    "vertices": 1006,
+    "faces": 2008,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 154,
+    "model_id": 939,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3537/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000154.txt",
+    "sha256": "6abfad40c2918c98a2918bcf4257174cb58c7a75871bb00f9f4cdf382241a32f",
+    "bytes": 81736,
+    "vertices": 1010,
+    "faces": 2016,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 155,
+    "model_id": 919,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3476/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:9/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000155.txt",
+    "sha256": "2965b56ef7add8008f01fa1a23451bdff65eefe1a34ff0c4f37c30118f3c0c46",
+    "bytes": 82384,
+    "vertices": 1018,
+    "faces": 2032,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 156,
+    "model_id": 4643,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/53182/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000156.txt",
+    "sha256": "422ea5874855df00a405ee696a57cf05421b5b30f4118f016eed543675e3855a",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 157,
+    "model_id": 590,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2328/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000157.txt",
+    "sha256": "4b60e76eaee8aede40417ba121ee7c1e57e5a237a4815937e0e36b827cbc3590",
+    "bytes": 78171,
+    "vertices": 966,
+    "faces": 1928,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 158,
+    "model_id": 167,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/448/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/105",
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000158.txt",
+    "sha256": "3fd76bf9793db0a4c5783a8887c528375b372fed374f8c0a1524076e3f77e387",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 159,
+    "model_id": 1869,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/6142/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/174"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000159.txt",
+    "sha256": "213c1c87869165ef623c8875cf4a9fbf258fd5aeedb6677316e93e75d57d1eff",
+    "bytes": 81169,
+    "vertices": 1003,
+    "faces": 2002,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 160,
+    "model_id": 169,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/453/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/129"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000160.txt",
+    "sha256": "69285eb63614042f0cdf3bf341190155b0785cda3399191b4393a002275c6c21",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 161,
+    "model_id": 461,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1801/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/146"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000161.txt",
+    "sha256": "bb13c3b5a03f3f095adfface5145e8780cf80bc7e1ad0d48172c367cb669c4fd",
+    "bytes": 81574,
+    "vertices": 1008,
+    "faces": 2012,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 162,
+    "model_id": 325,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1195/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000162.txt",
+    "sha256": "cf67b568322176e7a97e90964912e0100a8e9a552dfd757c9eac2686078cb864",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 163,
+    "model_id": 1399,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4948/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162",
+      "https://damit.cuni.cz/projects/damit/references/view/168"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000163.txt",
+    "sha256": "6aad46d87b3e7994de886e34871bc6c1d2979208ffaeeb345945cae43f2f778a",
+    "bytes": 81331,
+    "vertices": 1005,
+    "faces": 2006,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 164,
+    "model_id": 1021,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3796/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000164.txt",
+    "sha256": "c9f55273db249c8adb0a08784259e0967e93a8f1876f48dd6afe7d7f634ad87d",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 165,
+    "model_id": 295,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1026/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000165.txt",
+    "sha256": "4f7f87ce189fa369592e8ac389c87b36962886afdf97d3cb0ac2b1573d05b2fe",
+    "bytes": 79143,
+    "vertices": 978,
+    "faces": 1952,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 166,
+    "model_id": 619,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2444/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000166.txt",
+    "sha256": "dae8593e45bf9983934225c5d78355e71944cbfb2c023b762170ca7683b1f441",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 167,
+    "model_id": 171,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/462/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/105",
+      "https://damit.cuni.cz/projects/damit/references/view/120",
+      "https://damit.cuni.cz/projects/damit/references/view/139"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000167.txt",
+    "sha256": "64551c82037ed908c2013ff20156876f4a376cebd08449463f76e6ed01dd12fc",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 168,
+    "model_id": 6009,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65441/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000168.txt",
+    "sha256": "f156336a2048015bfabaf6dc2be0d5a06683cdce4662d02c7e71931b33bbbb79",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 171,
+    "model_id": 1169,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4248/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000171.txt",
+    "sha256": "27c3161ee7fc49ee40c98bf8d79a092938ce870f14f3cd002d1208cef587a1c9",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 172,
+    "model_id": 4695,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/53579/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:10/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000172.txt",
+    "sha256": "f5b9e2aa2266ce412b20de2bddc7242224f042d7aa0aecbb1a579d00ab6d18ba",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 173,
+    "model_id": 5913,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/63475/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/660"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000173.txt",
+    "sha256": "b6b64c30f487bfb7f146122cf99b49143693e622f2f182bcf5d80b44adc73564",
+    "bytes": 142972,
+    "vertices": 1766,
+    "faces": 3528,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 174,
+    "model_id": 304,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1091/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/140"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000174.txt",
+    "sha256": "1805d5dbef19e6956892f348a8f2bfea20036c710c9641352aebd224cde62acd",
+    "bytes": 80763,
+    "vertices": 998,
+    "faces": 1992,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 175,
+    "model_id": 4709,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/53685/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000175.txt",
+    "sha256": "5367fb890afac33ac8a92c1c8b9059754a0e0b7479132b5c34be432b5e61ae3d",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 176,
+    "model_id": 1338,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4765/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162",
+      "https://damit.cuni.cz/projects/damit/references/view/168"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000176.txt",
+    "sha256": "fddcad06b6ae28c75095f278dc5e9a126ec635060f08f77f3fde1dcee45b2cf6",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 178,
+    "model_id": 687,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2717/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000178.txt",
+    "sha256": "fb20200a3a880d20e7476ed1a98871db69a38bf82b80911ac9e0070c444e044f",
+    "bytes": 82546,
+    "vertices": 1020,
+    "faces": 2036,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 179,
+    "model_id": 889,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3386/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000179.txt",
+    "sha256": "8bd44ac87912cb1289c1520b4af757e339be836a524136c88708c30f3dc8292b",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 180,
+    "model_id": 1000,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3725/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000180.txt",
+    "sha256": "7d3b94409fa76db684d443027c24e852e334b69604315ee060001a4a5faf493d",
+    "bytes": 80682,
+    "vertices": 997,
+    "faces": 1990,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 182,
+    "model_id": 173,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/471/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/123",
+      "https://damit.cuni.cz/projects/damit/references/view/128"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000182.txt",
+    "sha256": "5ebf199aa273c2544a78d4d4573b3f1a99b44995f7d7ee0347a7ace4f936ff00",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 183,
+    "model_id": 669,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2645/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000183.txt",
+    "sha256": "b2ed5a305e0322cf6cc360dd7b714983c91faf762fc43f91d14eb3d9ec39edb9",
+    "bytes": 82546,
+    "vertices": 1020,
+    "faces": 2036,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 184,
+    "model_id": 175,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/481/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/117",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000184.txt",
+    "sha256": "e455562c300f5594cb401f42d3237cb86e3e415ad7c03f54f2569637b435f9db",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 186,
+    "model_id": 1416,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/5002/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000186.txt",
+    "sha256": "ae6be0ce3c2a6e6161b60f4615d9373c6b1dcbb55b04cae5e6ba7672daaf8804",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 187,
+    "model_id": 1086,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3993/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000187.txt",
+    "sha256": "cb53ca5d2c9d972db277dd1c1666ff9b6fa6a3c9bd0992fa69018d1e15923468",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 188,
+    "model_id": 327,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1204/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000188.txt",
+    "sha256": "6edbc9d49a54ef72199ed7da9d5827c133f1aa1c2170e2ee8c65e747454c8077",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 189,
+    "model_id": 947,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3561/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000189.txt",
+    "sha256": "c67198a88957b252467de36b8bb2bbe087f6e1698be1ba9e90dc3379b8b7e940",
+    "bytes": 82222,
+    "vertices": 1016,
+    "faces": 2028,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 191,
+    "model_id": 4072,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/12730/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:11/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000191.txt",
+    "sha256": "74994217a690be9e8736a7709f52c8e70c80a0f63c0d7160f73e7cd9924ec078",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 192,
+    "model_id": 1864,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/490/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/103",
+      "https://damit.cuni.cz/projects/damit/references/view/112"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000192.txt",
+    "sha256": "34377681fbc2782fc5422725c431edb1028f94d4cf4b7e210a74cd115a886aa3",
+    "bytes": 82060,
+    "vertices": 1014,
+    "faces": 2024,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 193,
+    "model_id": 548,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2160/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000193.txt",
+    "sha256": "f448756b26da376283009caf5049d40dc1054ed2370c003ee80fe2cf831ecf49",
+    "bytes": 81088,
+    "vertices": 1002,
+    "faces": 2000,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 195,
+    "model_id": 3102,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/9829/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/179"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000195.txt",
+    "sha256": "f357504dd44ea1e679c796b0878da27943b23109fd4c576ae8e8673abaee1eb9",
+    "bytes": 82384,
+    "vertices": 1018,
+    "faces": 2032,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 196,
+    "model_id": 178,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/494/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/113"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000196.txt",
+    "sha256": "8f341a094a0a45d1d656f7579e028762b7a5f2355711250c7cc389168675f1ab",
+    "bytes": 129364,
+    "vertices": 1598,
+    "faces": 3192,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 199,
+    "model_id": 506,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1990/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000199.txt",
+    "sha256": "3482d76fa479e2335f9e524abeaa2a38a9f0d974298a2520006bfa807d2cd056",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 201,
+    "model_id": 180,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/503/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000201.txt",
+    "sha256": "0a169c305b444f8163b677a60de14d126a71717887f51bbbe980befd42279262",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 202,
+    "model_id": 6210,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/66873/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/664"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000202.txt",
+    "sha256": "6ae4de5b5b66d1315d078b432014591b912358a5f47e6c177673a2fe55639657",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 204,
+    "model_id": 4787,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/54276/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000204.txt",
+    "sha256": "3108ee1d5da9b4004ac87f550e1a5f5561e02214612a4237757764eed1830f1f",
+    "bytes": 45609,
+    "vertices": 564,
+    "faces": 1124,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 206,
+    "model_id": 3217,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/10171/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000206.txt",
+    "sha256": "8e2c5f76b6378e942e105825b60568612becb8902a67d2c7c4dfc34d92b31b2f",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 207,
+    "model_id": 4799,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/54367/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000207.txt",
+    "sha256": "2960870d9b24a38294260667c205abc1a2d88ca5b62af00ff47a50747cf67838",
+    "bytes": 44637,
+    "vertices": 552,
+    "faces": 1100,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 208,
+    "model_id": 4379,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/506/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/105",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000208.txt",
+    "sha256": "8141ccc5e429ce65c3f15b36d75ea73956c99c517f702d1cfdc74982f8691bda",
+    "bytes": 81088,
+    "vertices": 1002,
+    "faces": 2000,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 209,
+    "model_id": 3659,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/11491/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000209.txt",
+    "sha256": "461086209e88b1043b79cc9e64ca58de488f781dec10fa938a0d7cc68dcb6dc4",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 210,
+    "model_id": 987,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3681/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000210.txt",
+    "sha256": "80fd70c2bfa59866664269efb052469476bfd35078b8842e6c21cbee4c9b1108",
+    "bytes": 82546,
+    "vertices": 1020,
+    "faces": 2036,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 212,
+    "model_id": 1091,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4008/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000212.txt",
+    "sha256": "7002b307b1713a7ab911659586b73aac5175f32f77a06eadb506f9d2d3c8294f",
+    "bytes": 81493,
+    "vertices": 1007,
+    "faces": 2010,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 213,
+    "model_id": 9003,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/84844/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:12/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000213.txt",
+    "sha256": "0086f2f76f18239a5345be68633ff70bec9e91ef0e30318c0157c07c72bfd27d",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 214,
+    "model_id": 1435,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/5059/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000214.txt",
+    "sha256": "425c5eaa458c41fc0ecd53191819cd902e7f242a38b77aa0d4860b788d403674",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 215,
+    "model_id": 4825,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/129970/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/678"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000215.txt",
+    "sha256": "7bc47c2e17a5bbe344a0d1a5f08c337f1148f9fca1dde7c0318dc07d95550f6f",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 216,
+    "model_id": 1826,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/6120/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/169"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000216.txt",
+    "sha256": "79ed8a725582f420bf80a3f6ea5c114ed5788c28a83d8578d76e43da4f92354c",
+    "bytes": 46743,
+    "vertices": 578,
+    "faces": 1152,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 217,
+    "model_id": 3998,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/12508/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000217.txt",
+    "sha256": "0f268a3c1e9d6d8999666bcfc41159f50c0fd0f023a7df1765a672442da2b183",
+    "bytes": 45609,
+    "vertices": 564,
+    "faces": 1124,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 218,
+    "model_id": 184,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/513/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/113"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000218.txt",
+    "sha256": "a869edcf301a4185e199f368ce57a0022fd259f4f9e20844cb1d823173912e88",
+    "bytes": 129364,
+    "vertices": 1598,
+    "faces": 3192,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 219,
+    "model_id": 4840,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/68158/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/664"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000219.txt",
+    "sha256": "e419c84cb52f109724074a35fa0dffe77e5c112149b0aa60fad47699cbab9087",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 220,
+    "model_id": 588,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2320/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000220.txt",
+    "sha256": "1d751e789d79cdd53abcc6fdc6a78c1e78b560175824f814a41c5c41e8d28fc4",
+    "bytes": 81898,
+    "vertices": 1012,
+    "faces": 2020,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 221,
+    "model_id": 1743,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/5968/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/167"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000221.txt",
+    "sha256": "83fdebb219ce6f345437cd87e7009a4f15a93682e9e825ebe135f7579ba3c9d4",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 222,
+    "model_id": 523,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2060/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000222.txt",
+    "sha256": "295982d8c3626762ce96c29da3029b61b59e8e76fa35dcd9cf78d15b19fd7d14",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 223,
+    "model_id": 6212,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/67012/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/664"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000223.txt",
+    "sha256": "215a683443e596cceaf87a7cea9f0df7cfe10fc6cb9760456a053880085a712c",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 225,
+    "model_id": 4859,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/54825/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000225.txt",
+    "sha256": "02061f1763d9d4005b8cf226e8abace734b5796a9ee5d651bf1e767ce8ab04f3",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 226,
+    "model_id": 1074,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3957/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000226.txt",
+    "sha256": "b5ea3c7a8dacc9eb8d62f5ea85376eeeec1d1d521461ea669a201a5f7d97646b",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 227,
+    "model_id": 1873,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/6154/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/174"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000227.txt",
+    "sha256": "e21f6191a0e78785b81cf603e3e0f86281aca58b705fc1cadfebb5a043afef6f",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 230,
+    "model_id": 185,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/519/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000230.txt",
+    "sha256": "ca781392c88cb7da8f861e4f7a98da4c5d7677394a5bc8a3e79d6c7e766707d3",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 231,
+    "model_id": 4148,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/12958/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:13/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000231.txt",
+    "sha256": "b350d98f2dc934419375ae342ce7c825dc290eebe41efc3e943ca51ed62dc85b",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 232,
+    "model_id": 4880,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/54985/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000232.txt",
+    "sha256": "1719db1b8433020b678f268433e49211d3778fc97b174d77950539c471b97064",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 233,
+    "model_id": 1093,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4014/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000233.txt",
+    "sha256": "95ae27703a36e7b3172d8cdb7128167a6b5350f65fa64b6cbf2e4dcc8a14f8e0",
+    "bytes": 82384,
+    "vertices": 1018,
+    "faces": 2032,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 234,
+    "model_id": 4886,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55031/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000234.txt",
+    "sha256": "86a2e2c2c31cac5020d52a718cc53c57b9672e71710e13b1395433f9285e465b",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 235,
+    "model_id": 4888,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55046/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000235.txt",
+    "sha256": "68e02e65295296841ae71a9993fd8854396a8d0c7fa7153d9aa084ceaad0a56d",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 236,
+    "model_id": 4890,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55061/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000236.txt",
+    "sha256": "16163fd659ccc9568631c405a59b3bc576134f934dde76ec246f740d46414b77",
+    "bytes": 45123,
+    "vertices": 558,
+    "faces": 1112,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 237,
+    "model_id": 1218,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4405/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000237.txt",
+    "sha256": "427b7e385d125ecccedc0cbf7129a960bf32bcb5f793e1fb0c8464d464d6a784",
+    "bytes": 80926,
+    "vertices": 1000,
+    "faces": 1996,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 238,
+    "model_id": 3844,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/12046/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000238.txt",
+    "sha256": "61b02e21efc8fa19b782a3c1828b46bd1d1bfdf2c35ad352fd995ec9b0aae399",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 239,
+    "model_id": 1426,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/5032/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000239.txt",
+    "sha256": "4cf16a22d1f20275ee7d0c408e4438b0c8554cb0cb8625489b13a8ce36ed2f18",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 240,
+    "model_id": 6039,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65608/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000240.txt",
+    "sha256": "616f9e9caf14dd14bfb662642e787d1d22478f53727d8f3eef207287cdfd109b",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 242,
+    "model_id": 621,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2452/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000242.txt",
+    "sha256": "d1556ed22d1a7df79537f2d50d2cc6389142aa9eccda3e14f362efb2375bcb17",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 243,
+    "model_id": 772,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3035/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/153"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000243.txt",
+    "sha256": "2cdc5a47b93168a8c6f43a19fc90e00c11b0dc6b13e250b0986b1fd92a898e75",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 244,
+    "model_id": 3641,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/11437/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000244.txt",
+    "sha256": "37d2fa66df786eb698ea6b919fe51862266203cb7a7c743ffe5d82902b1c6cd6",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 245,
+    "model_id": 1212,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4387/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000245.txt",
+    "sha256": "2d0eb67cc470d629766b5c5f396820808162acbb1bd994548ffc9b38329268dc",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 246,
+    "model_id": 872,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3335/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000246.txt",
+    "sha256": "e6bad1a6ce84bdc4c206b59b166082c2c28e56dff40f22e1febc5df90f122f55",
+    "bytes": 82384,
+    "vertices": 1018,
+    "faces": 2032,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 247,
+    "model_id": 1207,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4372/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:14/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000247.txt",
+    "sha256": "ea6b5ad9251b69d29f43920366432979c8dc19158a1af0beb5560bbbc0f09d9a",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 248,
+    "model_id": 6045,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65641/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000248.txt",
+    "sha256": "dcd114d6f99f730fb25398a8aaf730ce35622b3cb9d0898acc1d9c6493f37634",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 249,
+    "model_id": 864,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3311/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000249.txt",
+    "sha256": "39f5363411a234415535e0ece44d5783636a4655bfd0bf0bcc8e1d00493414fc",
+    "bytes": 80601,
+    "vertices": 996,
+    "faces": 1988,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 250,
+    "model_id": 187,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/533/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/106",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000250.txt",
+    "sha256": "987d078305cceb86dd17de9886d7cef6b66bdbad75af6d71c9c63673b73e3c85",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 251,
+    "model_id": 4096,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/12802/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000251.txt",
+    "sha256": "ef7fe59f3a0a60ffaf977e9bfabe15e58113d386fa0fe8103b103721a783e1ed",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 252,
+    "model_id": 1912,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/6262/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/175"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000252.txt",
+    "sha256": "15e30ddcead93addfefb8473a689b601d549eab3710abf227abce3b7761d2be4",
+    "bytes": 44799,
+    "vertices": 554,
+    "faces": 1104,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 253,
+    "model_id": 4929,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55357/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000253.txt",
+    "sha256": "45686d67a5a240fc5f5064f0ad52e38624fe79fb8a948abe2547261fabdd353b",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 254,
+    "model_id": 845,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3254/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000254.txt",
+    "sha256": "e0158056d0fcd78655afea95b3e0bff52c8430f45bd2c6c6b5efc1fdff30d188",
+    "bytes": 82060,
+    "vertices": 1014,
+    "faces": 2024,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 255,
+    "model_id": 4939,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55433/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000255.txt",
+    "sha256": "bff46222fb6f513baaa2116ccf3534d83f62b2d33b8b3e38777f8de4b98b7b1a",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 256,
+    "model_id": 4071,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/12727/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000256.txt",
+    "sha256": "fb63a9a1f75a9deaa1f97d2287da895757cf6aad247cfffc3963be32a3b04f0a",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 257,
+    "model_id": 702,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2777/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000257.txt",
+    "sha256": "a32b67db173623ddbff30c471278e92fb0925f0d0a1b787b0f9a7ed23c24ce96",
+    "bytes": 82384,
+    "vertices": 1018,
+    "faces": 2032,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 258,
+    "model_id": 329,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1213/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000258.txt",
+    "sha256": "0490bad5885c440c58b587c2bf6d2dd5b342afc976fb35ffbbe3dc0eac00f090",
+    "bytes": 82222,
+    "vertices": 1016,
+    "faces": 2028,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 260,
+    "model_id": 578,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2280/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000260.txt",
+    "sha256": "d4074decf77b04ae946a4cde54bd9a3ea1179f3ab447ac7721d81d8ea378873c",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 261,
+    "model_id": 6047,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/65652/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/662"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000261.txt",
+    "sha256": "c1784d5260e2421df01657a98753fcc6cf54d1c41d1626bd79ab5a690732dc3c",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 262,
+    "model_id": 4948,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55501/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000262.txt",
+    "sha256": "817b353f92df82a2fb889802a31cc93bf75ff20acff711888df95eae6c3f3829",
+    "bytes": 45933,
+    "vertices": 568,
+    "faces": 1132,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 263,
+    "model_id": 1163,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4230/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:15/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000263.txt",
+    "sha256": "eb9e234766f9bce4ed9fd95ff4e674802af3255a98ae411a37b3a36f5f52b230",
+    "bytes": 82384,
+    "vertices": 1018,
+    "faces": 2032,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 264,
+    "model_id": 331,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1222/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/141"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:16/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000264.txt",
+    "sha256": "90c6c85577e5615ac761ae75898680215bdae93bdb749b5aa4905a095fdca08c",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 265,
+    "model_id": 686,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2713/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:16/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000265.txt",
+    "sha256": "afffd52ce5fa7564a907f0a7aa6b0dd4c63842ac4dfb0ab6182b57e9968335be",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 267,
+    "model_id": 4960,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55592/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:16/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000267.txt",
+    "sha256": "cf76b3a4c346aad9488749f7f26384b275bba2ff021b8f718aa3772f8251bf35",
+    "bytes": 44475,
+    "vertices": 550,
+    "faces": 1096,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 269,
+    "model_id": 4966,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/129746/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/677"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:16/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000269.txt",
+    "sha256": "d0b08535c58dcc032352efea71f3e5763710ba8ae627b87538167a62fc012a0e",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 270,
+    "model_id": 1183,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4290/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:16/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000270.txt",
+    "sha256": "8d486e3f083430418ce79d7578da3ebb901e03d365b1d37324e3b437c6f25065",
+    "bytes": 82060,
+    "vertices": 1014,
+    "faces": 2024,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 271,
+    "model_id": 933,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3518/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:16/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000271.txt",
+    "sha256": "e5e8054c9480dc77f4e07acaea828896f97a84bef3e60faad569047bb184efed",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 272,
+    "model_id": 637,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/2514/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:16/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000272.txt",
+    "sha256": "536fd7168d0691b0111d6362045134cacaa1f1bf92f9f767e949357d5fe04adf",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 273,
+    "model_id": 4985,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55782/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:16/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000273.txt",
+    "sha256": "fe9a0c02cee5f5cbbad7b6f9078848f0aea9f3c4544a5f7dfeece685cc7f2fcc",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 274,
+    "model_id": 883,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3368/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:16/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000274.txt",
+    "sha256": "d00a5edc3e2c3ccfd5fc8ec04d264eb5fc651bf5b4015258f7878aa48f1bae1d",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 275,
+    "model_id": 16283,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/126548/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/667"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:16/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000275.txt",
+    "sha256": "dcf0f27a7470c14e9b79a990f02ff752155431cc40e53e67b23be9e004abb8a2",
+    "bytes": 82384,
+    "vertices": 1018,
+    "faces": 2032,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 276,
+    "model_id": 189,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/540/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/117",
+      "https://damit.cuni.cz/projects/damit/references/view/139",
+      "https://damit.cuni.cz/projects/damit/references/view/149"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:16/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_000276.txt",
+    "sha256": "10aace4ab515e08cf5ecbfe77fd3a7fc9f559519d9202ef6a2edd7b106ffe187",
+    "bytes": 129364,
+    "vertices": 1598,
+    "faces": 3192,
+    "development_source": false
+  },
+  {
+    "asteroid_number": 2464,
+    "model_id": 9571,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/88087/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002464.txt",
+    "sha256": "832d0a65e6fc8662c0b490f3c73cb0fc972264a043378d8734acd50a96edf59f",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2467,
+    "model_id": 2838,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/9040/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/175"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002467.txt",
+    "sha256": "fe9cb1f0728b76b839fca8e3c1d52a22d8104fcb16220aeee2302801d97fa203",
+    "bytes": 44475,
+    "vertices": 550,
+    "faces": 1096,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2468,
+    "model_id": 4919,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55281/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002468.txt",
+    "sha256": "a9e1c62f8122c4f4693a78f29503eed2d0f378d522879551ae419ce8b466d064",
+    "bytes": 45933,
+    "vertices": 568,
+    "faces": 1132,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2474,
+    "model_id": 4921,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55296/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002474.txt",
+    "sha256": "14563d72044152eab137167cf97024c22e6f11c274e4f4f63e0a7c97a5cfe7a8",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2475,
+    "model_id": 3561,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/11197/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002475.txt",
+    "sha256": "2346dc4193fc8efe3385a4a4bcbec41b31c8f3592fa8c80fcf25dd21b7ca44e8",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2478,
+    "model_id": 9591,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/88200/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002478.txt",
+    "sha256": "f9b8d0083e3e610230b411b664a17f6f1ea61444638d261e6d090368504f1d64",
+    "bytes": 46095,
+    "vertices": 570,
+    "faces": 1136,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2482,
+    "model_id": 4923,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/55311/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002482.txt",
+    "sha256": "ba4dae61d89476f05d3ffc677659b0bf1af55b5df3f9f2a77b223f4ea2be7343",
+    "bytes": 46257,
+    "vertices": 572,
+    "faces": 1140,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2483,
+    "model_id": 1498,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/5248/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002483.txt",
+    "sha256": "9a3d7520cbfbebd79e4b4f704cbca547c71954cecf13aef4cd40729408871a98",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2490,
+    "model_id": 4161,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/12997/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002490.txt",
+    "sha256": "d2f1282d996ee28051784b7d5208a1867ed055bcf5f56ffcb6beff21af1081cd",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2493,
+    "model_id": 3747,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/11755/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002493.txt",
+    "sha256": "7dd3c4ce2ab0e93790812beea8afeeeea77990506f4eae279ee8f5dc9410039a",
+    "bytes": 44637,
+    "vertices": 552,
+    "faces": 1100,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2494,
+    "model_id": 4061,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/12697/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002494.txt",
+    "sha256": "6797472fb86ec2594cd504ad9fd02a49a914a3f0647c8a2009a429b530961c49",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2495,
+    "model_id": 863,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/3308/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/161"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002495.txt",
+    "sha256": "1e5554a231beae2e46670713ea9e5624d6f6f173708e19eb6cc5cc8a19f7fad7",
+    "bytes": 82222,
+    "vertices": 1016,
+    "faces": 2028,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2499,
+    "model_id": 2375,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/7651/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/175"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002499.txt",
+    "sha256": "cd09cdfbc88184b30472f49b39157cd8661a8520c8b2e17f3977667dc1354df3",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2501,
+    "model_id": 2519,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/8083/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/175"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002501.txt",
+    "sha256": "0f88b9e20fbe77c7ba006871e27b146a2861411f62453edb81683d793358b08d",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 2504,
+    "model_id": 4221,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/13177/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:101/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_002504.txt",
+    "sha256": "b3ab3d63b8a54ba5c303ee06c757702378a2dd56bf02d57fb0b3342558c2e762",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7811,
+    "model_id": 5757,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/61644/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007811.txt",
+    "sha256": "f11d8f432563ce61d45f81909c59ef0467d1fb816cba51325846b0f0379ecff4",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7813,
+    "model_id": 15046,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/119432/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007813.txt",
+    "sha256": "77381b30ca8e8efe0f3bed3b98a727415ac27bf8e721d0c1b158a2ae5cb2a360",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7815,
+    "model_id": 15048,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/119443/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007815.txt",
+    "sha256": "5e31ea1bebf7446d1313742ef76e92d6d213432cdcbf2ac007dd6fa256916cac",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7829,
+    "model_id": 15057,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/119495/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007829.txt",
+    "sha256": "895f9c9f5aa29a90978dd152174251162174e27049cdcb9714576dcf715b6ff3",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7834,
+    "model_id": 3402,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/10726/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007834.txt",
+    "sha256": "27798ce61b6d8ff760a67e490057c1849c967673841f9c39093964d26d178e3d",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7835,
+    "model_id": 1600,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/5554/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007835.txt",
+    "sha256": "beb97cd0ffa46787dab29a676222987db7829be8636562e2689cedbe8c19395c",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7836,
+    "model_id": 15062,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/119523/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007836.txt",
+    "sha256": "53313b17d5c64d9da4767046c1912e81e841cf75eba756898608c3e5c18a2ea3",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7837,
+    "model_id": 2229,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/7213/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/175"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007837.txt",
+    "sha256": "46fd8c2f3c7b9cefb8dcdf2dda46eea7f18fb5273b75bffb0e6046a3300decc7",
+    "bytes": 45123,
+    "vertices": 558,
+    "faces": 1112,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7838,
+    "model_id": 4149,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/12961/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007838.txt",
+    "sha256": "ddf27e671d92c2c6a3c0926aa2d715cb797a91911fd781a6479bc2b8b872150f",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7856,
+    "model_id": 15070,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/119569/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007856.txt",
+    "sha256": "267a5abfe6ff5dd72cd3d66fda33c3f6d3c326d725153059e17090114b06f5cf",
+    "bytes": 46257,
+    "vertices": 572,
+    "faces": 1140,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7859,
+    "model_id": 2326,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/7504/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/175"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007859.txt",
+    "sha256": "a5229405e4afaf163a4629111347190671b27cab50fb8c6fd0692ac28c4ab163",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7860,
+    "model_id": 15074,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/119592/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007860.txt",
+    "sha256": "e866062d3e319b50d3a045b49c143498a6dacde621b4696273621114f5dc3cca",
+    "bytes": 43017,
+    "vertices": 532,
+    "faces": 1060,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7862,
+    "model_id": 15075,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/119598/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007862.txt",
+    "sha256": "8b00dbe87b9f263f47f6748763c7afa4bfed54cea0916ba0e68d85dae6f245f5",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7868,
+    "model_id": 15079,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/119621/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007868.txt",
+    "sha256": "0321cdce3530d487b3027f1df609200551ec2ad831af914c3adb5cdcba0eb8f8",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 7896,
+    "model_id": 1613,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/5593/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:201/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_007896.txt",
+    "sha256": "a5b960ed97f5465daa4e113ab3f2c9ab251f70e9a8be7ded379b7844838176a8",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16785,
+    "model_id": 4097,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/12805/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016785.txt",
+    "sha256": "22057ac3ec949d4ccf8649e4754dff2575094f53fa05920b3ae7906ff4e38b79",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16786,
+    "model_id": 1383,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/4900/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/162"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016786.txt",
+    "sha256": "2b0fae750fb199886e636e0ced62949a4b20d4fd2125ce252f8f9b8bff6fea63",
+    "bytes": 82627,
+    "vertices": 1021,
+    "faces": 2038,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16789,
+    "model_id": 2458,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/7900/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/175"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016789.txt",
+    "sha256": "ca3cecc17199446d8e1f257c784328b76e0a9ae29a6e4e4a423e2d4b1e6e227a",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16792,
+    "model_id": 8199,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/80237/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016792.txt",
+    "sha256": "1473ea3a79c3d4428182c9c111bea81b8812f51872b3e8fa9f71cff3642b4a98",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16793,
+    "model_id": 8201,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/80248/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016793.txt",
+    "sha256": "97c69cab47984a13fe488c8d846087910fc875f93e301cdd343124bb21eabedf",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16794,
+    "model_id": 8202,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/80254/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016794.txt",
+    "sha256": "8de31f4b03f35891e57804020c68ec8cc1edecf868943f3a9d99f0e0d55899aa",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16804,
+    "model_id": 8205,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/80271/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016804.txt",
+    "sha256": "14f95d4ccf6eb5606dae8e0549c77bf5594c7ad668516552a9b8396db9504801",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16812,
+    "model_id": 8206,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/80277/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016812.txt",
+    "sha256": "63d5d56d2588e0de26a6c33366c9ee852b789038ba4e28d1ac186ef65c5fc8d1",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16820,
+    "model_id": 8208,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/80288/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016820.txt",
+    "sha256": "28be9d6c33bfdcdc421f39a44ec75186a87cd15b4f981b350df1711a60bc3737",
+    "bytes": 45933,
+    "vertices": 568,
+    "faces": 1132,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16826,
+    "model_id": 8210,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/80299/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016826.txt",
+    "sha256": "4dd37204982ae6bf907faf3a16425f66c49c153b83588b6506a1c57fbc72d655",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16839,
+    "model_id": 8211,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/80305/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016839.txt",
+    "sha256": "03d167be347cd05299e3d5fb654c53d8fb32129038b4ea51e5c5dafa656cd31d",
+    "bytes": 39776,
+    "vertices": 492,
+    "faces": 980,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16847,
+    "model_id": 472,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/1843/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/148",
+      "https://damit.cuni.cz/projects/damit/references/view/185"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016847.txt",
+    "sha256": "3d1f0260ddb24c48730142e7746cfbf73d55bf7957de8e9d06a76957d913f0d9",
+    "bytes": 82708,
+    "vertices": 1022,
+    "faces": 2040,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16850,
+    "model_id": 8213,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/80316/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016850.txt",
+    "sha256": "76a372519c33d32db399b88e09139afe2dc0581515e390dcda901d22071223f5",
+    "bytes": 45447,
+    "vertices": 562,
+    "faces": 1120,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16855,
+    "model_id": 8215,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/80327/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016855.txt",
+    "sha256": "22fde0069deded25088940f16f3e185c390543959d22f640f5f17d9bc3a1a015",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 16860,
+    "model_id": 8217,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/80339/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:301/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_016860.txt",
+    "sha256": "5d0ab7e53d623c79d4e5497a3deebe14c91bfe330af83bb517a423b516405588",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29122,
+    "model_id": 2373,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/7645/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/175"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029122.txt",
+    "sha256": "a1b600e6dc87f6dc8ef6a90400871018bc5efc1ad9eb8e7c978589ddf2adb31f",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29144,
+    "model_id": 10211,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/91764/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029144.txt",
+    "sha256": "5e4586e318ee16ba61f166da2878bdd4f215c0702ec92de9d3728cc881705a57",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29161,
+    "model_id": 10214,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/91781/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029161.txt",
+    "sha256": "8b5ed6acbfb62d374d51ef11e37ac49d1faecc4a240dccb365595f3a52a2ed85",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29167,
+    "model_id": 10216,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/91792/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029167.txt",
+    "sha256": "2452e3c75b5557d110e0fec1a864173f1c8626c7ba2fad30dde2948f2f0ea912",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29170,
+    "model_id": 10218,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/91803/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029170.txt",
+    "sha256": "9881d1fe5cc778c0f8336d2664b656ecc86ae7435b73d944922114009d0b952e",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29185,
+    "model_id": 10219,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/91809/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029185.txt",
+    "sha256": "a83d1a9335177763dc894d5db6f9710ff013a442b78176eb123a75e432d498a9",
+    "bytes": 45933,
+    "vertices": 568,
+    "faces": 1132,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29198,
+    "model_id": 3906,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/12232/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/182"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029198.txt",
+    "sha256": "964621b6e5ed96d45d2419c487defd18023af1428a64edffef4e1b9209c7c162",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29200,
+    "model_id": 10221,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/91821/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029200.txt",
+    "sha256": "484867f2e150dad85396a5ba7b8c96b64e2d9220ec8e49f699451f97e41c1af2",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29201,
+    "model_id": 5040,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/56200/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029201.txt",
+    "sha256": "c8f25cc87d91b6bd7b9b130b0c6fa57c00024380a39fd18c88ada652ca8ef8b2",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29204,
+    "model_id": 10223,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/91832/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029204.txt",
+    "sha256": "7f9b5ccb6f1183ab96806fd365176df45066d36ee4434f71e7e9e1d21257a5e2",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29211,
+    "model_id": 5042,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/56215/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029211.txt",
+    "sha256": "93ddde77e683ecae8508226860d47f0c889079514af3adb12c9f9aa17fe1ee69",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29216,
+    "model_id": 5044,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/56230/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/658"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029216.txt",
+    "sha256": "9fadc175181a261e9611c86a7f3d7d456cfb8de8c7902a7f7d928efc1c39a784",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29218,
+    "model_id": 10224,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/91838/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029218.txt",
+    "sha256": "647b873783da2d0ca06276c8628afc00cfabd84a715a5065c64436304d29a798",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29229,
+    "model_id": 10225,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/91844/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029229.txt",
+    "sha256": "9c8194b3ae253056637eda690bb37662767b5edf8dcd60345d198b02026b037f",
+    "bytes": 46419,
+    "vertices": 574,
+    "faces": 1144,
+    "development_source": true
+  },
+  {
+    "asteroid_number": 29246,
+    "model_id": 10226,
+    "shape_url": "https://damit.cuni.cz/projects/damit/stored_files/open/91850/shape.txt",
+    "reference_urls": [
+      "https://damit.cuni.cz/projects/damit/references/view/665"
+    ],
+    "browse_url": "https://damit.cuni.cz/projects/damit/asteroids/browse/page:401/sort:Asteroid.number/direction:asc",
+    "file": "models/shape_029246.txt",
+    "sha256": "124136353696db87aab29d5ceedc0a31318e53abce86f39dfc3bd0aded60df65",
+    "bytes": 46257,
+    "vertices": 572,
+    "faces": 1140,
+    "development_source": true
+  }
+]
